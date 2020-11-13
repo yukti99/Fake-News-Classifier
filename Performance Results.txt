@@ -1,0 +1,11 @@
+Performance Scores:
+1. Multinomial NB with Bag of Words = 0.9015586546349467
+2. Passive Aggressive Classifier with Bag of Words = 0.9239814055236533
+3. Multinomial Classifier with Hyperparameter and Bag of Words = Alpha: 0.3, Score:0.9059338255400602
+4. Multinomial NB with TF-IDF = 0.8887065901011758
+5. Passive Aggressive Classifier with TF-IDF = 0.920153130981679
+6. Multinomial Classifier with Hyperparameter and TF-IDF = Alpha: 0.4, Score:0.890620727372163
+7. Multinomial Classifier with Hashing Vectorizer = 0.8733934919332786
+
+Best Algo for given Fake News Sentiment Analysis Dataset:
+Passive Aggressive Classifier with Bag of Words¶
